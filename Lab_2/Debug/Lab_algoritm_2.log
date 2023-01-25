@@ -1,0 +1,6 @@
+﻿  function.cpp
+D:\Практика\Семестр №4\Алгоритмы\lab2\Lab_algoritm_2\function.cpp(140,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  main.cpp
+D:\Практика\Семестр №4\Алгоритмы\lab2\Lab_algoritm_2\main.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Lab_algoritm_2.vcxproj -> D:\Практика\Семестр №4\Алгоритмы\lab2\Lab_algoritm_2\Debug\Lab_algoritm_2.exe
